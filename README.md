@@ -46,7 +46,8 @@ silent! colorscheme torte
 
 ## Cscope
 ```
-apt-get install cscope
+apt-get install cscope exuberant-ctags
+# https://stackoverflow.com/a/17737254
 ```
 
 ```sh
